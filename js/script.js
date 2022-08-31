@@ -1,3 +1,4 @@
+// Currency Convertor by Rishabh Saklani
 const dropList = document.querySelectorAll("form select"),
 fromCurrency = document.querySelector(".from select"),
 toCurrency = document.querySelector(".to select"),
