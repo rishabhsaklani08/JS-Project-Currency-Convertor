@@ -1,3 +1,4 @@
+// Currency Convertor by Rishabh Saklani
 let country_list = {
     "AED" : "AE",
     "AFN" : "AF",
